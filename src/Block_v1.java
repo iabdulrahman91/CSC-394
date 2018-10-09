@@ -6,4 +6,5 @@ public class Block_v1 implements Block{
 	private String seed;
 	private String blockID;
 	
+	// some setter and getter functions
 }
