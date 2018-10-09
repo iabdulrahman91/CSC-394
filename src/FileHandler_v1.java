@@ -1,4 +1,4 @@
 
-public class FileHandler_v1 {
+public class FileHandler_v1 implements FileHandler{
 
 }
